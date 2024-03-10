@@ -1,0 +1,20 @@
+@font-face {
+    src: url(fonts/MadimiOne-Regular.ttf);
+    font-family: MadimiOne-Regular;
+}
+
+@font-face {
+    src: url(fonts/Oswald-VariableFont_wght.ttf);
+    font-family: Oswald-VariableFont_wght;
+}
+
+h1 {
+    font-family: MadimiOne-Regular, verdana;
+}
+
+p {
+    font-family: Oswald-VariableFont_wght, "EB Garamond", "lucida console", "courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
